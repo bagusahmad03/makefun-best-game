@@ -1,7 +1,10 @@
 # Emberhold — Tower Defense
 
-An original tower defense game, built for the make.fun "best-game-01"
-competition. The Gloom marches down the road toward the Ember Crystal. Build
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/bagusahmad03/makefun-best-game/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/bagusahmad03/makefun-best-game/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+An original tower defense game, built for the [make.fun "best-game-01" bounty](https://make.fun/bounty/best-game-01). The Gloom marches down the road toward the Ember Crystal. Build
 towers, hold the road for 15 waves, and keep the crystal burning.
 
 ## How to play
